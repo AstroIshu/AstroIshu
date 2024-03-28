@@ -6,10 +6,12 @@ Welcome to my GitHub playground! I'm a first-year student passionate about Machi
 
 - **Python** 🐍
 - **C** 🖥️
+- **C++**⌨️
 
 ## 🌱 Current Focus
 
 Exploring the realms of machine learning, from classic algorithms to cutting-edge deep learning techniques.
+I am keen in research!
 
 ## 📫 Let's Connect
 
