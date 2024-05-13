@@ -1,12 +1,12 @@
 # Hello World! 👋
 
-Welcome to my GitHub playground! I'm a first-year student passionate about Machine Learning and coding adventures.
+Welcome to my GitHub playground! I'm a second-year student passionate about Machine Learning and coding adventures.
 
 ## 🛠️ Toolbox
 
 - **Python** 🐍
 - **C** 🖥️
-- C++⌨️
+- **C++**⌨️
 
 ## 🌱 Current Focus
 
