@@ -6,7 +6,7 @@ Welcome to my GitHub playground! I'm a second-year student passionate about Mach
 
 - **Python** 🐍
 - **C** 🖥️
-- **C++**⌨️
+- **Cpp**⌨️
 
 ## 🌱 Current Focus
 
