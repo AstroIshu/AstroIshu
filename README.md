@@ -1,6 +1,6 @@
-<img align="left" src="![cat&me](https://github.com/AstroIshu/MyAssets/blob/aababf014f607cf78aec9c58570dbfbdc1f8b89d/catandme.jpg?raw=true)">
+<img align="left" src="https://github.com/AstroIshu/MyAssets/blob/aababf014f607cf78aec9c58570dbfbdc1f8b89d/catandme.jpg?raw=true" width="120" style="border-radius: 10px; box-shadow: 2px 2px 5px gray; margin-right: 20px; float: left;">
 
-### Hey!
+### Hey Anons!
 I'm **AstroIshu**, passionate about artificial intelligence, and exploring the uncharted territories of ML research.
 <br>
 
@@ -12,11 +12,10 @@ Uptime: 18 years
 Pronouns: He/Him
 Host: Chandigarh University
 Location: Punjab, IND
-Frameworks: React
 Languages(Computer): Python(⁂), C(⁂), HTML(⁂),Markdown(⁂), C++(⁑), R(⁎), CSS(⁎) 
-Languagges(Real): English(⁂), Hindi(⁂), Punjabi(⁑), Korean(⁎), Urdu(⁎)
+Languages(Real): English(⁂), Hindi(⁂), Punjabi(⁑), Korean(⁎), Urdu(⁎)
 Learning: Machine Learning, Deep Learning, Gen AI, Data Science
-Hobbies: Philosphy, Art & Music, History, Cosmos, Photography
+Hobbies: Philosphy, Art & Music, Cosmos, Photography
 Discord: astroishu
 
 ```
