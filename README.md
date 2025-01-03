@@ -1,18 +1,24 @@
-# Hello World! 👋
+<img align="left" src="![cat&me](https://raw.githubusercontent.com/AstroIshu/MyAssets/aababf014f607cf78aec9c58570dbfbdc1f8b89d/catandme.jpg)">
 
-Welcome to my GitHub playground! I'm a second-year student passionate about Machine Learning and coding adventures.
+### Hey!
+I'm **AstroIshu**, passionate about artificial intelligence, and exploring the uncharted territories of ML research.
+<br>
 
-## 🛠️ Toolbox
+```php
+AstroIshu@github
+-------------------------
+OS: Windows 11, Android
+Uptime: 18 years 
+Pronouns: He/Him
+Host: Chandigarh University
+Location: Punjab, IND
+Frameworks: React
+Languages(Computer): Python(⁂), C(⁂), HTML(⁂),Markdown(⁂), C++(⁑), R(⁎), CSS(⁎) 
+Languagges(Real): English(⁂), Hindi(⁂), Punjabi(⁑), Korean(⁎), Urdu(⁎)
+Learning: Machine Learning, Deep Learning, Gen AI, Data Science
+Hobbies: Philosphy, Art & Music, History, Cosmos, Photography
+Discord: astroishu
 
-- **Python** 🐍
-- **C** 🖥️
-- **Cpp**⌨️
+```
 
-## 🌱 Current Focus
 
-Exploring the realms of machine learning, from classic algorithms to cutting-edge deep learning techniques.
-I am keen in research!
-
-## 📫 Let's Connect
-
-Find me on [LinkedIn](https://www.linkedin.com/in/singhishant/) or [Insta](https://www.instagram.com/astro.ishu/). Let's build and learn together! 🚀
