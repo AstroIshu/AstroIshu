@@ -8,7 +8,7 @@ I'm **AstroIshu**, passionate about artificial intelligence, and exploring the u
 AstroIshu@github
 -------------------------
 OS: Windows 11, Android
-Uptime: 18 years 
+Uptime: 19 years 
 Pronouns: He/Him
 Host: Chandigarh University
 Location: Punjab, IND
