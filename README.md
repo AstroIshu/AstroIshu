@@ -7,16 +7,17 @@ I'm **AstroIshu**, passionate about artificial intelligence, and exploring the u
 ```php
 AstroIshu@github
 -------------------------
-OS: Windows 11, Android
+OS: Windows 11, Android 14
 Uptime: 19 years 
 Pronouns: He/Him
 Host: Chandigarh University
 Location: Punjab, IND
-Languages(Computer): Python(⁂), C(⁂), HTML(⁂),Markdown(⁂), C++(⁑), R(⁎), CSS(⁎) 
-Languages(Real): English(⁂), Hindi(⁂), Punjabi(⁑), Korean(⁎), Urdu(⁎)
+Languages(Computer): Python(⁂), C(⁂), HTML(⁂),Markdown(⁂), C++(⁑), CSS(⁑), R(⁎)  
+Languages(IRL): English(⁂), Hindi(⁂), Punjabi(⁑), Korean(⁎), Urdu(⁎)
 Learning: Machine Learning, Deep Learning, Gen AI, Data Science
-Hobbies: Philosphy, Art & Music, Cosmos, Photography
+Hobbies: Philosphy, Content Writing, Art & Music, Poetry, Reading books, Cosmos, Photography
 Discord: astroishu
+Twitter: @Astro_iSHU
 
 ```
 
