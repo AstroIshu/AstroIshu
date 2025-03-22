@@ -12,7 +12,7 @@ Uptime: 19 years
 Pronouns: He/Him
 Host: Chandigarh University
 Location: Punjab, IND
-Languages(Computer): Python(⁂), C(⁂), HTML(⁂),Markdown(⁂), C++(⁑), CSS(⁑), R(⁎)  
+Languages(Computer): Python(⁂), C(⁂), R(⁑) , C++(), CSS(⁑), HTML(⁂),Markdown(⁂)
 Languages(IRL): English(⁂), Hindi(⁂), Punjabi(⁑), Korean(⁎), Urdu(⁎)
 Learning: Machine Learning, Deep Learning, Gen AI, Data Science
 Hobbies: Philosphy, Content Writing, Art & Music, Poetry, Reading books, Cosmos, Photography
